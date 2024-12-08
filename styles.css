@@ -21,7 +21,7 @@ header {
 }
 
 .logo img {
-    max-width: 120px;
+    max-width: 100px;
     height: auto;
 }
 
@@ -327,11 +327,11 @@ header.sticky {
 .contact-info {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(160px, auto));
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .first-info img {
-    width: 140px;
+    width: 70px;
     height: auto;
 }
 
@@ -370,7 +370,7 @@ header.sticky {
 }
 
 .end-text {
-    background-color: #edfff1;
+    background-color: #9da59f;
     text-align: center;
     padding: 20px;
 }
